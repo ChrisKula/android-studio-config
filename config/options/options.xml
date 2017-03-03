@@ -1,0 +1,72 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1488271167392" />
+    <property name="file.chooser.recent.files" value="D:/Fichiers/Documents/Téléchargements/idea-plugin-linessorter.jar&#10;D:/Fichiers/Documents/Téléchargements/StringManipulation.jar&#10;D:/Fichiers/Documents/Workspaces/Android/Perso/quickstart-android/config&#10;C:/Users/uid20057/Desktop/settings.jar&#10;C:/Users/uid20057/Desktop&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/VehicleDataTransfer/key/vehicledatatransfer.keystore&#10;D:/Fichiers/Documents/Workspaces/Android/Dev&#10;D:/Fichiers/Documents/Téléchargements/key-promoter (1).zip&#10;D:/Fichiers/Documents/Téléchargements/key-promoter.zip&#10;D:/Fichiers/Documents/Workspaces/Android/Perso/EVtracker.old&#10;D:/Fichiers/Documents/Téléchargements/Material Default.jar&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/VehicleDataTransfer/app/build/outputs/apk/app-debug.apk&#10;D:/Fichiers/Documents/Workspaces/Android/intellij_android_google_style.xml&#10;D:/Fichiers/Documents/Workspaces/Android/intellij_java_google_style.xml&#10;D:/Fichiers/Documents/Workspaces/Android/Perso/androidmvp&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/DriveLab&#10;D:/Fichiers/Documents/Workspaces/Android/Perso/gps-tester&#10;D:/Fichiers/Documents/Workspaces/Android/Perso/Clover/Clover&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/VehicleDataTransfer&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/ALQM_android&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/android-architecture/todoapp&#10;D:/Fichiers/Documents/Workspaces/Android/Dev/tivapp&#10;D:/Fichiers/Documents/Workspaces/Android/android-architecture/todoapp&#10;D:/Fichiers/Documents/Workspaces/Android/tivapp/app/src/main/res/drawable&#10;D:/Fichiers/Documents/Workspaces/Android/tivapp&#10;D:/Fichiers/Documents/Workspaces/Android/ALQM_android&#10;C:/Users/uid20057/Desktop/icone-visite-guidée.png&#10;C:/Users/uid20057/Desktop/icone-faq.png&#10;C:/Users/uid20057/Desktop/Icon-visite-guidee.png&#10;C:/Users/uid20057/Desktop/EffectiveNavigation" />
+    <property name="lastTip" value="3" />
+    <property name="newly.installed.api.level" value="25" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="KEYMAP" value="close&#10;TODO&#10;stop&#10;recent&#10;clear" />
+    <property name="AndroidPlatformName" value="Android API 24 Platform" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="LOG_FILTER_HISTORY" value="canary&#10;Firebase&#10;from&#10;fireb&#10;fire" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="173" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="SAVED_COMPANY_DOMAIN" value="continental.com" />
+    <property name="MobileminApi" value="14" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="gradle.runner.text.console_str" value="false" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="studio.activity.count" value="4" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.58092487" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.74545455" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ANDROID_THEME_HISTORY" value="drawer" />
+    <property name="selected.color.option.type" value="TODO_DEFAULT_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="128-203-196-255,,,63-81-181-255,,,76-175-80-255,,,0-150-136-255,,,255-193-7-255,,,26-35-126-255,,,103-58-183-255,,,33-150-243-255,,,27-94-32-255,,,56-142-60-255,,,3-169-244-255,,,255-111-0-255,,,255-160-0-255,,,1-87-155-255,,,0-0-0-255,,,89-116-171-255,,,156-156-156-255,,,156-39-176-255,,,244-67-54-255,,,255-152-0-255" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="export.settings.path" value="C:\Users\uid20057\Desktop\settings.jar" />
+    <property name="android.apk.viewer" value="0.6482255" />
+    <property name="FileTemplates.SelectedTemplate" value="Activity" />
+    <property name="PLUGIN_FILTER" value="adb&#10;StringMa&#10;key Promoter&#10;keypromoter" />
+    <property name="plugins.preselection.path" value="D:/Fichiers/Documents/Téléchargements" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="LOG_FILTER_PACKAGE_NAME_HISTORY" value="com.continental.vehicledatatransfer" />
+    <property name="LOG_FILTER_TAG_HISTORY" value="" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+  </component>
+</application>

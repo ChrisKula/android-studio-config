@@ -1,0 +1,55 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>receive</find>
+      <find>REQUEST</find>
+      <find>tools</find>
+      <find>is not implemented</find>
+      <find>get-vin</find>
+      <find>onMessage</find>
+      <find>cb</find>
+      <find>_emit</find>
+      <find>_init</find>
+      <find>init</find>
+      <find>margin-left</find>
+      <find>RequestResultEvent</find>
+      <find>downstream-status</find>
+      <find>configKey</find>
+      <find>config</find>
+      <find>JavascriptInterface</find>
+      <find>SHA</find>
+      <find>fleet_key</find>
+      <find>provideVin</find>
+      <find>AlertDialog</find>
+      <find>dongle</find>
+      <find>survey-sign</find>
+      <find>firebase</find>
+      <find>gms</find>
+      <find>butter</find>
+      <find>02</find>
+      <find>Firebase</find>
+      <find>anal</find>
+      <find>main</find>
+      <find>notif</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>android:textAppearance=&quot;@style/InformationTextViewStyle&quot;</replace>
+      <replace>match_parent</replace>
+      <replace>8</replace>
+      <replace>1.5 bar</replace>
+      <replace>1.5bar</replace>
+      <replace>1.5</replace>
+      <replace>75dp</replace>
+      <replace>15dp</replace>
+      <replace>60dp</replace>
+      <replace>@string/bar</replace>
+      <replace>nav_menu_</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Fichiers\Documents\Workspaces\Android\VehicleDataTransfer\app\src\main\res</dir>
+      <dir>D:\Fichiers\Documents\Workspaces\Android\Dev\VehicleDataTransfer\app\src\main\assets</dir>
+      <dir>D:\Fichiers\Documents\Workspaces\Android\Dev\ALQM_android\AutoLinQMobileSDK\MyCarService</dir>
+    </dirStrings>
+  </component>
+</application>
