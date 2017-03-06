@@ -1,154 +1,5 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="androidmvp" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.warn.about.detached.enabled,config.ssh.disabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.1" collectionTime="1484150599565" />
-      <project id="DriveLab" values="config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.disabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,data.local.branches.count.2+,config.push.update.all.roots.enabled" collectionTime="1487234399408" />
-      <project id="WebViewInBackground" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.force.push.enabled" collectionTime="1484815844489" />
-      <project id="TestFlash" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1476889580730" />
-      <project id="tivapp" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remote.branches.count.2+,config.ssh.disabled,data.local.branches.count.2+,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled" collectionTime="1487323308642" />
-      <project id="MyApplication" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1476950312734" />
-      <project id="EVtracker.old" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.disabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1487080019620" />
-      <project id="todoapp" values="data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remote.branches.count.8+,config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1479315674255" />
-      <project id="VehicleDataTransfer" values="data.remote.branches.count.8+,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.local.branches.count.5+,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.DONT_SYNC" collectionTime="1488538302445" />
-      <project id="Clover" values="config.warn.about.detached.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1482151359597" />
-      <project id="gps-tester" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,data.remote.branches.count.1,data.local.branches.count.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1" collectionTime="1483708310848" />
-      <project id="SampleForgeApp" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.0,data.local.branches.count.2+,config.warn.about.detached.enabled" collectionTime="1484038684456" />
-      <project id="ev_tracker" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1488469189218" />
-      <project id="Service Sample" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1476432464461" />
-      <project id="TwitchAlt" values="config.force.push.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1476373954182" />
-      <project id="ActivityDetector" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.disabled,config.push.update.all.roots.enabled" collectionTime="1483967468337" />
-      <project id="EffectiveNavigation" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1477385917198" />
-      <project id="config" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1487864980009" />
-      <project id="GpsTester" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1483693921450" />
-      <project id="ALQM_android" values="config.warn.about.crlf.enabled,config.ssh.disabled,data.local.branches.count.2+,config.save.policy.STASH,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1485251643497" />
-      <project id="SpeexPOC" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1487256841307" />
-      <project id="EVtracker" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1486658965869" />
-    </group>
-    <group name="VCS Log Ui Settings">
-      <project id="VehicleDataTransfer" values="ui.highlighter.MY_COMMITS.enabled,ui.long.edges.disabled,ui.sort.normal.enabled,ui.branches.panel.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.details.disabled,ui.sort.linear.bek.disabled,ui.sort.bek.disabled" collectionTime="1488538302442" />
-    </group>
-    <group name="frameworks">
-      <project id="Service Sample" values="android" collectionTime="1476432464271" />
-      <project id="DriveLab" values="android-gradle,android,java-gradle" collectionTime="1487234399280" />
-      <project id="WebViewInBackground" values="android-gradle,java-gradle,android" collectionTime="1484815844375" />
-      <project id="TestFlash" values="android-gradle,android,java-gradle" collectionTime="1476889580531" />
-      <project id="tivapp" values="java-gradle,android-gradle,android" collectionTime="1487323308523" />
-      <project id="androidmvp" values="android-gradle,java-gradle,android" collectionTime="1484150599440" />
-      <project id="EVtracker.old" values="android,android-gradle" collectionTime="1487080019490" />
-      <project id="MyApplication" values="java-gradle,android-gradle,android" collectionTime="1476950312657" />
-      <project id="todoapp" values="java-gradle,android,android-gradle" collectionTime="1479315674194" />
-      <project id="ALQM_android" values="android-gradle,java-gradle,android" collectionTime="1485251643403" />
-      <project id="Clover" values="android-gradle,android,java-gradle" collectionTime="1482151357628" />
-      <project id="gps-tester" values="android,android-gradle,java-gradle" collectionTime="1483708309918" />
-      <project id="SampleForgeApp" values="android-gradle,java-gradle,android" collectionTime="1484038684396" />
-      <project id="ev_tracker" values="android,android-gradle,java-gradle" collectionTime="1488469188868" />
-      <project id="VehicleDataTransfer" values="java-gradle,android,android-gradle" collectionTime="1488538302349" />
-      <project id="ActivityDetector" values="android-gradle,android,java-gradle" collectionTime="1483967468179" />
-      <project id="GpsTester" values="android,android-gradle,java-gradle" collectionTime="1483693921408" />
-      <project id="EffectiveNavigation" values="android" collectionTime="1477385917175" />
-      <project id="config" values="android-gradle,java-gradle,android" collectionTime="1487864979523" />
-      <project id="TwitchAlt" values="java-gradle,android-gradle,android" collectionTime="1476373954088" />
-      <project id="SpeexPOC" values="android,java-gradle,android-gradle" collectionTime="1487256841087" />
-      <project id="EVtracker" values="android-gradle,android,java-gradle" collectionTime="1486658965794" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="ALQM_android" values="GradleRunConfiguration" collectionTime="1485251643403" />
-      <project id="MyApplication" values="GradleRunConfiguration" collectionTime="1476950312657" />
-      <project id="VehicleDataTransfer" values="Application,AndroidJUnit,GradleRunConfiguration" collectionTime="1488538302351" />
-    </group>
-    <group name="vcs">
-      <project id="VehicleDataTransfer" values="Git" collectionTime="1488538302348" />
-      <project id="SampleForgeApp" values="Git" collectionTime="1484038684396" />
-      <project id="ALQM_android" values="Git" collectionTime="1485251643403" />
-      <project id="androidmvp" values="Git" collectionTime="1484150599440" />
-      <project id="DriveLab" values="Git" collectionTime="1487234399280" />
-      <project id="ev_tracker" values="Git" collectionTime="1488469188854" />
-      <project id="tivapp" values="Git" collectionTime="1487323308523" />
-      <project id="Clover" values="Git" collectionTime="1482151357622" />
-      <project id="TwitchAlt" values="Git" collectionTime="1476373954088" />
-      <project id="todoapp" values="Git" collectionTime="1479315674194" />
-      <project id="gps-tester" values="Git" collectionTime="1483708309829" />
-    </group>
-    <group name="language-level">
-      <project id="androidmvp" values="JDK_1_8,JDK_1_7" collectionTime="1484150599549" />
-      <project id="DriveLab" values="JDK_1_7" collectionTime="1487234399408" />
-      <project id="WebViewInBackground" values="JDK_1_7" collectionTime="1484815844463" />
-      <project id="TestFlash" values="JDK_1_7" collectionTime="1476889580724" />
-      <project id="tivapp" values="JDK_1_7" collectionTime="1487323308629" />
-      <project id="MyApplication" values="JDK_1_8,JDK_1_7" collectionTime="1476950312734" />
-      <project id="EVtracker.old" values="JDK_1_8" collectionTime="1487080019603" />
-      <project id="todoapp" values="JDK_1_7,JDK_1_8" collectionTime="1479315674255" />
-      <project id="VehicleDataTransfer" values="JDK_1_7" collectionTime="1488538302444" />
-      <project id="Clover" values="JDK_1_7" collectionTime="1482151358871" />
-      <project id="gps-tester" values="JDK_1_8,JDK_1_7" collectionTime="1483708310677" />
-      <project id="SampleForgeApp" values="JDK_1_7" collectionTime="1484038684455" />
-      <project id="ev_tracker" values="JDK_1_7" collectionTime="1488469189132" />
-      <project id="Service Sample" values="JDK_1_3" collectionTime="1476432464423" />
-      <project id="TwitchAlt" values="JDK_1_7" collectionTime="1476373954179" />
-      <project id="ActivityDetector" values="JDK_1_7" collectionTime="1483967468325" />
-      <project id="EffectiveNavigation" values="JDK_1_8" collectionTime="1477385917197" />
-      <project id="config" values="JDK_1_8,JDK_1_7" collectionTime="1487864979993" />
-      <project id="GpsTester" values="JDK_1_7" collectionTime="1483693921442" />
-      <project id="ALQM_android" values="JDK_1_7,JDK_1_6" collectionTime="1485251643497" />
-      <project id="SpeexPOC" values="JDK_1_7" collectionTime="1487256841307" />
-      <project id="EVtracker" values="JDK_1_7,JDK_1_8" collectionTime="1486658965869" />
-    </group>
-    <group name="images.ide.background">
-      <project id="VehicleDataTransfer" values="editor 0,frame 0" collectionTime="1488538302442" />
-    </group>
-    <group name="VCS Log 2">
-      <project id="tivapp" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1487323308629" />
-      <project id="VehicleDataTransfer" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1488538302441" />
-      <project id="DriveLab" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1487234399408" />
-    </group>
-    <group name="file-type">
-      <project id="Service Sample" values="JAVA,XML,Images" collectionTime="1476432464384" />
-      <project id="DriveLab" values="JSON,Images,ProGuard File,ARCHIVE,Properties,PLAIN_TEXT,JAVA,AIDL,XML,Groovy,IDEA_MODULE,UNKNOWN" collectionTime="1487234399408" />
-      <project id="WebViewInBackground" values="HTML,PLAIN_TEXT,IDEA_MODULE,JAVA,Groovy,ARCHIVE,JavaScript,XML,AIDL,ProGuard File,Images,Properties,UNKNOWN" collectionTime="1484815844462" />
-      <project id="TestFlash" values="ARCHIVE,PLAIN_TEXT,Images,IDEA_MODULE,ProGuard File,XML,AIDL,JAVA,Groovy,Properties" collectionTime="1476889580654" />
-      <project id="tivapp" values="Groovy,Images,AIDL,ARCHIVE,JAVA,PLAIN_TEXT,Properties,ProGuard File,IDEA_MODULE,XML" collectionTime="1487323308628" />
-      <project id="androidmvp" values="ProGuard File,JAVA,PLAIN_TEXT,Groovy,Properties,Images,XML,ARCHIVE,IDEA_MODULE" collectionTime="1484150599549" />
-      <project id="EVtracker.old" values="ProGuard File,JSON,Groovy,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,AIDL,Properties,JAVA,XML,UNKNOWN,Images" collectionTime="1487080019555" />
-      <project id="MyApplication" values="AIDL,ProGuard File,Groovy,PLAIN_TEXT,Properties,XML,Images,ARCHIVE,UNKNOWN,IDEA_MODULE,JAVA" collectionTime="1476950312732" />
-      <project id="todoapp" values="Images,ProGuard File,XML,Properties,JAVA,ARCHIVE,AIDL,Groovy,PLAIN_TEXT,IDEA_MODULE" collectionTime="1479315674253" />
-      <project id="ALQM_android" values="HTML,JavaScript,CSS,Images,ProGuard File,ARCHIVE,IDEA_MODULE,JAVA,YAML,Properties,AIDL,XML,Native,JSON,Groovy,UNKNOWN,PLAIN_TEXT" collectionTime="1485251643465" />
-      <project id="Clover" values="IDEA_MODULE,HTML,Properties,PLAIN_TEXT,ARCHIVE,JAVA,Groovy,UNKNOWN,ProGuard File,Images,AIDL,XML" collectionTime="1482151357857" />
-      <project id="gps-tester" values="Images,AIDL,Properties,ProGuard File,Groovy,IDEA_MODULE,ARCHIVE,XML,PLAIN_TEXT,JAVA" collectionTime="1483708310248" />
-      <project id="SampleForgeApp" values="Images,Properties,JAVA,UNKNOWN,IDEA_MODULE,Groovy,AIDL,ProGuard File,XML,ARCHIVE,PLAIN_TEXT" collectionTime="1484038684455" />
-      <project id="ev_tracker" values="AIDL,ARCHIVE,Images,UNKNOWN,Groovy,ProGuard File,Properties,IDEA_MODULE,PLAIN_TEXT,XML,JAVA" collectionTime="1488469188966" />
-      <project id="VehicleDataTransfer" values="JAVA,JSON Schema,CSS,APK,Groovy,ProGuard File,ARCHIVE,HTML,XML,Allocations,AIDL,JavaScript,UNKNOWN,IDEA_MODULE,Properties,Images,PLAIN_TEXT" collectionTime="1488538302429" />
-      <project id="ActivityDetector" values="Images,PLAIN_TEXT,Properties,JAVA,ARCHIVE,AIDL,XML,IDEA_MODULE,UNKNOWN,ProGuard File,Groovy" collectionTime="1483967468304" />
-      <project id="GpsTester" values="ProGuard File,JAVA,Images,XML,UNKNOWN,Properties,AIDL,PLAIN_TEXT,Groovy,IDEA_MODULE,ARCHIVE" collectionTime="1483693921441" />
-      <project id="EffectiveNavigation" values="XML,Images,JAVA" collectionTime="1477385917197" />
-      <project id="config" values="Properties,PLAIN_TEXT,JAVA,Images,Groovy,AIDL,ARCHIVE,XML,IDEA_MODULE,ProGuard File" collectionTime="1487864979724" />
-      <project id="TwitchAlt" values="ARCHIVE,PLAIN_TEXT,Properties,XML,Groovy,ProGuard File,JAVA,IDEA_MODULE,Images,AIDL" collectionTime="1476373954167" />
-      <project id="SpeexPOC" values="AIDL,XML,PLAIN_TEXT,IDEA_MODULE,Groovy,Images,Properties,JAVA,ObjectiveC,UNKNOWN,ARCHIVE,ProGuard File" collectionTime="1487256841306" />
-      <project id="EVtracker" values="ProGuard File,ARCHIVE,Properties,PLAIN_TEXT,Images,IDEA_MODULE,UNKNOWN,XML,Groovy,JAVA,AIDL" collectionTime="1486658965868" />
-    </group>
-    <group name="module type">
-      <project id="androidmvp" values="JAVA_MODULE" collectionTime="1484150599440" />
-      <project id="DriveLab" values="JAVA_MODULE" collectionTime="1487234399280" />
-      <project id="WebViewInBackground" values="JAVA_MODULE" collectionTime="1484815844375" />
-      <project id="TestFlash" values="JAVA_MODULE" collectionTime="1476889580531" />
-      <project id="tivapp" values="JAVA_MODULE" collectionTime="1487323308523" />
-      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1476950312657" />
-      <project id="EVtracker.old" values="JAVA_MODULE" collectionTime="1487080019491" />
-      <project id="todoapp" values="JAVA_MODULE" collectionTime="1479315674194" />
-      <project id="ALQM_android" values="JAVA_MODULE" collectionTime="1485251643403" />
-      <project id="Clover" values="JAVA_MODULE" collectionTime="1482151357628" />
-      <project id="gps-tester" values="JAVA_MODULE" collectionTime="1483708309918" />
-      <project id="SampleForgeApp" values="JAVA_MODULE" collectionTime="1484038684396" />
-      <project id="ev_tracker" values="JAVA_MODULE" collectionTime="1488469188868" />
-      <project id="Service Sample" values="JAVA_MODULE" collectionTime="1476432464271" />
-      <project id="VehicleDataTransfer" values="JAVA_MODULE" collectionTime="1488538302349" />
-      <project id="TwitchAlt" values="JAVA_MODULE" collectionTime="1476373954088" />
-      <project id="ActivityDetector" values="JAVA_MODULE" collectionTime="1483967468179" />
-      <project id="EffectiveNavigation" values="JAVA_MODULE" collectionTime="1477385917175" />
-      <project id="config" values="JAVA_MODULE" collectionTime="1487864979523" />
-      <project id="GpsTester" values="JAVA_MODULE" collectionTime="1483693921408" />
-      <project id="SpeexPOC" values="JAVA_MODULE" collectionTime="1487256841087" />
-      <project id="EVtracker" values="JAVA_MODULE" collectionTime="1486658965794" />
-    </group>
     <group name="run-configuration-type">
       <project id="androidmvp" values="AndroidRunConfigurationType" collectionTime="1484150599440" />
       <project id="DriveLab" values="AndroidRunConfigurationType" collectionTime="1487234399280" />
@@ -157,19 +8,168 @@
       <project id="tivapp" values="AndroidRunConfigurationType" collectionTime="1487323308523" />
       <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1476950312657" />
       <project id="todoapp" values="AndroidRunConfigurationType" collectionTime="1479315674194" />
-      <project id="VehicleDataTransfer" values="AndroidRunConfigurationType" collectionTime="1488538302351" />
+      <project id="VehicleDataTransfer" values="AndroidRunConfigurationType,GradleRunConfiguration" collectionTime="1488806409129" />
       <project id="Clover" values="AndroidRunConfigurationType" collectionTime="1482151357629" />
       <project id="gps-tester" values="AndroidRunConfigurationType" collectionTime="1483708309945" />
       <project id="SampleForgeApp" values="AndroidRunConfigurationType" collectionTime="1484038684396" />
       <project id="ev_tracker" values="AndroidRunConfigurationType" collectionTime="1488469188869" />
+      <project id="TwitchAlt" values="AndroidRunConfigurationType" collectionTime="1476373954089" />
       <project id="ActivityDetector" values="AndroidRunConfigurationType" collectionTime="1483967468200" />
-      <project id="GpsTester" values="AndroidRunConfigurationType" collectionTime="1483693921408" />
       <project id="EffectiveNavigation" values="AndroidRunConfigurationType" collectionTime="1477385917175" />
       <project id="config" values="AndroidRunConfigurationType" collectionTime="1487864979523" />
-      <project id="TwitchAlt" values="AndroidRunConfigurationType" collectionTime="1476373954089" />
+      <project id="GpsTester" values="AndroidRunConfigurationType" collectionTime="1483693921408" />
       <project id="ALQM_android" values="AndroidRunConfigurationType" collectionTime="1485251643403" />
       <project id="SpeexPOC" values="AndroidRunConfigurationType" collectionTime="1487256841087" />
       <project id="EVtracker" values="AndroidRunConfigurationType" collectionTime="1486658965794" />
+    </group>
+    <group name="module type">
+      <project id="Service Sample" values="JAVA_MODULE" collectionTime="1476432464271" />
+      <project id="DriveLab" values="JAVA_MODULE" collectionTime="1487234399280" />
+      <project id="WebViewInBackground" values="JAVA_MODULE" collectionTime="1484815844375" />
+      <project id="TestFlash" values="JAVA_MODULE" collectionTime="1476889580531" />
+      <project id="tivapp" values="JAVA_MODULE" collectionTime="1487323308523" />
+      <project id="androidmvp" values="JAVA_MODULE" collectionTime="1484150599440" />
+      <project id="EVtracker.old" values="JAVA_MODULE" collectionTime="1487080019491" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1476950312657" />
+      <project id="todoapp" values="JAVA_MODULE" collectionTime="1479315674194" />
+      <project id="ALQM_android" values="JAVA_MODULE" collectionTime="1485251643403" />
+      <project id="Clover" values="JAVA_MODULE" collectionTime="1482151357628" />
+      <project id="gps-tester" values="JAVA_MODULE" collectionTime="1483708309918" />
+      <project id="SampleForgeApp" values="JAVA_MODULE" collectionTime="1484038684396" />
+      <project id="ev_tracker" values="JAVA_MODULE" collectionTime="1488469188868" />
+      <project id="VehicleDataTransfer" values="JAVA_MODULE" collectionTime="1488806409128" />
+      <project id="ActivityDetector" values="JAVA_MODULE" collectionTime="1483967468179" />
+      <project id="GpsTester" values="JAVA_MODULE" collectionTime="1483693921408" />
+      <project id="EffectiveNavigation" values="JAVA_MODULE" collectionTime="1477385917175" />
+      <project id="config" values="JAVA_MODULE" collectionTime="1487864979523" />
+      <project id="TwitchAlt" values="JAVA_MODULE" collectionTime="1476373954088" />
+      <project id="SpeexPOC" values="JAVA_MODULE" collectionTime="1487256841087" />
+      <project id="EVtracker" values="JAVA_MODULE" collectionTime="1486658965794" />
+    </group>
+    <group name="vcs">
+      <project id="VehicleDataTransfer" values="Git" collectionTime="1488806409127" />
+      <project id="SampleForgeApp" values="Git" collectionTime="1484038684396" />
+      <project id="ALQM_android" values="Git" collectionTime="1485251643403" />
+      <project id="androidmvp" values="Git" collectionTime="1484150599440" />
+      <project id="TwitchAlt" values="Git" collectionTime="1476373954088" />
+      <project id="ev_tracker" values="Git" collectionTime="1488469188854" />
+      <project id="tivapp" values="Git" collectionTime="1487323308523" />
+      <project id="Clover" values="Git" collectionTime="1482151357622" />
+      <project id="DriveLab" values="Git" collectionTime="1487234399280" />
+      <project id="todoapp" values="Git" collectionTime="1479315674194" />
+      <project id="gps-tester" values="Git" collectionTime="1483708309829" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="tivapp" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1487323308629" />
+      <project id="VehicleDataTransfer" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1488806409363" />
+      <project id="DriveLab" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1487234399408" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="VehicleDataTransfer" values="ui.sort.normal.enabled,ui.long.edges.disabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.sort.bek.disabled,ui.details.disabled,ui.highlighter.MY_COMMITS.enabled,ui.branches.panel.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.sort.linear.bek.disabled" collectionTime="1488806409363" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="ALQM_android" values="GradleRunConfiguration" collectionTime="1485251643403" />
+      <project id="MyApplication" values="GradleRunConfiguration" collectionTime="1476950312657" />
+      <project id="VehicleDataTransfer" values="GradleRunConfiguration" collectionTime="1488806409129" />
+    </group>
+    <group name="file-type">
+      <project id="androidmvp" values="Properties,ARCHIVE,XML,Groovy,Images,ProGuard File,PLAIN_TEXT,IDEA_MODULE,JAVA" collectionTime="1484150599549" />
+      <project id="DriveLab" values="Groovy,XML,Images,UNKNOWN,ARCHIVE,AIDL,Properties,JAVA,IDEA_MODULE,ProGuard File,JSON,PLAIN_TEXT" collectionTime="1487234399408" />
+      <project id="WebViewInBackground" values="AIDL,IDEA_MODULE,XML,PLAIN_TEXT,ProGuard File,Properties,UNKNOWN,HTML,Groovy,Images,JAVA,ARCHIVE,JavaScript" collectionTime="1484815844462" />
+      <project id="TestFlash" values="JAVA,PLAIN_TEXT,Images,Properties,ProGuard File,XML,AIDL,Groovy,IDEA_MODULE,ARCHIVE" collectionTime="1476889580654" />
+      <project id="tivapp" values="XML,Properties,PLAIN_TEXT,Groovy,Images,JAVA,ARCHIVE,IDEA_MODULE,AIDL,ProGuard File" collectionTime="1487323308628" />
+      <project id="MyApplication" values="PLAIN_TEXT,Images,JAVA,ARCHIVE,AIDL,Groovy,ProGuard File,XML,UNKNOWN,Properties,IDEA_MODULE" collectionTime="1476950312732" />
+      <project id="EVtracker.old" values="UNKNOWN,JAVA,PLAIN_TEXT,Properties,IDEA_MODULE,XML,ARCHIVE,AIDL,JSON,Images,Groovy,ProGuard File" collectionTime="1487080019555" />
+      <project id="todoapp" values="XML,IDEA_MODULE,Images,AIDL,PLAIN_TEXT,Groovy,ProGuard File,Properties,ARCHIVE,JAVA" collectionTime="1479315674253" />
+      <project id="ALQM_android" values="ProGuard File,HTML,Properties,YAML,JAVA,Groovy,Images,UNKNOWN,Native,JavaScript,IDEA_MODULE,CSS,PLAIN_TEXT,AIDL,ARCHIVE,JSON,XML" collectionTime="1485251643465" />
+      <project id="Clover" values="UNKNOWN,JAVA,HTML,ProGuard File,Images,AIDL,Properties,Groovy,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,XML" collectionTime="1482151357857" />
+      <project id="gps-tester" values="AIDL,JAVA,IDEA_MODULE,Images,PLAIN_TEXT,ARCHIVE,ProGuard File,XML,Groovy,Properties" collectionTime="1483708310248" />
+      <project id="SampleForgeApp" values="JAVA,Properties,ARCHIVE,ProGuard File,Groovy,IDEA_MODULE,Images,PLAIN_TEXT,AIDL,UNKNOWN,XML" collectionTime="1484038684455" />
+      <project id="ev_tracker" values="ProGuard File,JAVA,IDEA_MODULE,UNKNOWN,Images,ARCHIVE,AIDL,Properties,PLAIN_TEXT,Groovy,XML" collectionTime="1488469188966" />
+      <project id="Service Sample" values="Images,XML,JAVA" collectionTime="1476432464384" />
+      <project id="VehicleDataTransfer" values="CSS,JSON Schema,Images,ARCHIVE,JAVA,Properties,JavaScript,UNKNOWN,ProGuard File,Allocations,PLAIN_TEXT,IDEA_MODULE,XML,HTML,APK,Groovy" collectionTime="1488806409313" />
+      <project id="TwitchAlt" values="Properties,XML,Images,IDEA_MODULE,AIDL,ProGuard File,Groovy,PLAIN_TEXT,JAVA,ARCHIVE" collectionTime="1476373954167" />
+      <project id="ActivityDetector" values="IDEA_MODULE,AIDL,Images,Groovy,JAVA,UNKNOWN,Properties,XML,ARCHIVE,ProGuard File,PLAIN_TEXT" collectionTime="1483967468304" />
+      <project id="EffectiveNavigation" values="JAVA,XML,Images" collectionTime="1477385917197" />
+      <project id="config" values="Properties,AIDL,Groovy,XML,ProGuard File,JAVA,IDEA_MODULE,PLAIN_TEXT,Images,ARCHIVE" collectionTime="1487864979724" />
+      <project id="GpsTester" values="AIDL,ARCHIVE,Properties,XML,Images,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,Groovy,ProGuard File" collectionTime="1483693921441" />
+      <project id="SpeexPOC" values="ProGuard File,PLAIN_TEXT,JAVA,Properties,ARCHIVE,Images,ObjectiveC,UNKNOWN,Groovy,IDEA_MODULE,AIDL,XML" collectionTime="1487256841306" />
+      <project id="EVtracker" values="PLAIN_TEXT,ProGuard File,Images,XML,ARCHIVE,AIDL,Groovy,IDEA_MODULE,UNKNOWN,JAVA,Properties" collectionTime="1486658965868" />
+    </group>
+    <group name="images.ide.background">
+      <project id="VehicleDataTransfer" values="frame=0,editor=0" collectionTime="1488806409363" />
+    </group>
+    <group name="Git">
+      <project id="Service Sample" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1476432464461" />
+      <project id="DriveLab" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1487234399408" />
+      <project id="WebViewInBackground" values="config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1484815844489" />
+      <project id="TestFlash" values="config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1476889580730" />
+      <project id="tivapp" values="config.warn.about.detached.enabled,config.ssh.disabled,config.force.push.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.remotes.in.project.1,config.warn.about.crlf.enabled" collectionTime="1487323308642" />
+      <project id="androidmvp" values="data.remote.branches.count.1,config.force.push.enabled,config.ssh.disabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1" collectionTime="1484150599565" />
+      <project id="EVtracker.old" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.disabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1487080019620" />
+      <project id="MyApplication" values="config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1476950312734" />
+      <project id="todoapp" values="data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.local.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1479315674255" />
+      <project id="VehicleDataTransfer" values="config.ssh.disabled,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,data.local.branches.count.5+,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.DONT_SYNC,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT" collectionTime="1488806409365" />
+      <project id="Clover" values="config.force.push.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.ssh.disabled,config.save.policy.STASH,data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.local.branches.count.1" collectionTime="1482151359597" />
+      <project id="gps-tester" values="config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,data.local.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1" collectionTime="1483708310848" />
+      <project id="SampleForgeApp" values="data.remote.branches.count.0,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,data.remotes.in.project.0,config.save.policy.STASH,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED" collectionTime="1484038684456" />
+      <project id="ev_tracker" values="config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.ssh.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+" collectionTime="1488469189218" />
+      <project id="ActivityDetector" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.disabled,config.warn.about.detached.enabled" collectionTime="1483967468337" />
+      <project id="GpsTester" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1483693921450" />
+      <project id="EffectiveNavigation" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1477385917198" />
+      <project id="config" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1487864980009" />
+      <project id="TwitchAlt" values="config.save.policy.STASH,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1476373954182" />
+      <project id="ALQM_android" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,config.force.push.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1485251643497" />
+      <project id="SpeexPOC" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1487256841307" />
+      <project id="EVtracker" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1486658965869" />
+    </group>
+    <group name="frameworks">
+      <project id="androidmvp" values="java-gradle,android-gradle,android" collectionTime="1484150599440" />
+      <project id="DriveLab" values="java-gradle,android,android-gradle" collectionTime="1487234399280" />
+      <project id="WebViewInBackground" values="java-gradle,android,android-gradle" collectionTime="1484815844375" />
+      <project id="TestFlash" values="android-gradle,android,java-gradle" collectionTime="1476889580531" />
+      <project id="tivapp" values="android,android-gradle,java-gradle" collectionTime="1487323308523" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1476950312657" />
+      <project id="EVtracker.old" values="android,android-gradle" collectionTime="1487080019490" />
+      <project id="todoapp" values="android-gradle,java-gradle,android" collectionTime="1479315674194" />
+      <project id="ALQM_android" values="android-gradle,android,java-gradle" collectionTime="1485251643403" />
+      <project id="Clover" values="android,java-gradle,android-gradle" collectionTime="1482151357628" />
+      <project id="gps-tester" values="java-gradle,android,android-gradle" collectionTime="1483708309918" />
+      <project id="SampleForgeApp" values="java-gradle,android-gradle,android" collectionTime="1484038684396" />
+      <project id="ev_tracker" values="android-gradle,android,java-gradle" collectionTime="1488469188868" />
+      <project id="Service Sample" values="android" collectionTime="1476432464271" />
+      <project id="VehicleDataTransfer" values="java-gradle,android-gradle,android" collectionTime="1488806409128" />
+      <project id="TwitchAlt" values="java-gradle,android,android-gradle" collectionTime="1476373954088" />
+      <project id="ActivityDetector" values="android,java-gradle,android-gradle" collectionTime="1483967468179" />
+      <project id="EffectiveNavigation" values="android" collectionTime="1477385917175" />
+      <project id="config" values="android-gradle,java-gradle,android" collectionTime="1487864979523" />
+      <project id="GpsTester" values="android-gradle,java-gradle,android" collectionTime="1483693921408" />
+      <project id="SpeexPOC" values="java-gradle,android,android-gradle" collectionTime="1487256841087" />
+      <project id="EVtracker" values="android-gradle,android,java-gradle" collectionTime="1486658965794" />
+    </group>
+    <group name="language-level">
+      <project id="Service Sample" values="JDK_1_3" collectionTime="1476432464423" />
+      <project id="DriveLab" values="JDK_1_7" collectionTime="1487234399408" />
+      <project id="WebViewInBackground" values="JDK_1_7" collectionTime="1484815844463" />
+      <project id="TestFlash" values="JDK_1_7" collectionTime="1476889580724" />
+      <project id="tivapp" values="JDK_1_7" collectionTime="1487323308629" />
+      <project id="androidmvp" values="JDK_1_7,JDK_1_8" collectionTime="1484150599549" />
+      <project id="EVtracker.old" values="JDK_1_8" collectionTime="1487080019603" />
+      <project id="MyApplication" values="JDK_1_8,JDK_1_7" collectionTime="1476950312734" />
+      <project id="todoapp" values="JDK_1_8,JDK_1_7" collectionTime="1479315674255" />
+      <project id="VehicleDataTransfer" values="JDK_1_7" collectionTime="1488806409365" />
+      <project id="Clover" values="JDK_1_7" collectionTime="1482151358871" />
+      <project id="gps-tester" values="JDK_1_8,JDK_1_7" collectionTime="1483708310677" />
+      <project id="SampleForgeApp" values="JDK_1_7" collectionTime="1484038684455" />
+      <project id="ev_tracker" values="JDK_1_7" collectionTime="1488469189132" />
+      <project id="ActivityDetector" values="JDK_1_7" collectionTime="1483967468325" />
+      <project id="GpsTester" values="JDK_1_7" collectionTime="1483693921442" />
+      <project id="EffectiveNavigation" values="JDK_1_8" collectionTime="1477385917197" />
+      <project id="config" values="JDK_1_7,JDK_1_8" collectionTime="1487864979993" />
+      <project id="TwitchAlt" values="JDK_1_7" collectionTime="1476373954179" />
+      <project id="ALQM_android" values="JDK_1_6,JDK_1_7" collectionTime="1485251643497" />
+      <project id="SpeexPOC" values="JDK_1_7" collectionTime="1487256841307" />
+      <project id="EVtracker" values="JDK_1_8,JDK_1_7" collectionTime="1486658965869" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -185,9 +185,9 @@
       <entry feature="diff.SimpleDiffChange.Append" count="2" />
       <entry feature="execute.AndroidJUnit.Run" count="1" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="173" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="2579" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="2588" />
       <entry feature="execute.Application.Run" count="4" />
-      <entry feature="execute.GradleRunConfiguration.Run" count="30" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="31" />
       <entry feature="execute.JUnit.Debug" count="1" />
       <entry feature="execute.JUnit.Run" count="43" />
       <entry feature="execute.Remote.Debug" count="4" />
@@ -216,7 +216,7 @@
       <entry feature="ide.settings.Gradle" count="1" />
       <entry feature="ide.settings.Inspections" count="1" />
       <entry feature="ide.settings.Java" count="20" />
-      <entry feature="ide.settings.Keymap" count="43" />
+      <entry feature="ide.settings.Keymap" count="44" />
       <entry feature="ide.settings.Live_Templates" count="6" />
       <entry feature="ide.settings.Menus_and_Toolbars" count="30" />
       <entry feature="ide.settings.Plugins" count="4" />
@@ -224,8 +224,8 @@
       <entry feature="ide.settings.Smart_Keys" count="1" />
       <entry feature="ide.settings.Terminal" count="4" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="101" />
-      <entry feature="terminal.win" count="93" />
+      <entry feature="ideaapp.started" count="102" />
+      <entry feature="terminal.win" count="94" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
     </counts>
   </component>

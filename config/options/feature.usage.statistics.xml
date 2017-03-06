@@ -17,17 +17,17 @@
     <feature id="codeassists.overrideimplement" count="149" last-shown="0" last-used="1488470713733" shown-count="0" />
     <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.quickdefinition" count="2" last-shown="1488536660888" last-used="1488276255034" shown-count="175" />
-    <feature id="editing.completion.basic" count="7709" last-shown="0" last-used="1488551297082" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="2" last-shown="1488797060337" last-used="1488276255034" shown-count="176" />
+    <feature id="editing.completion.basic" count="7715" last-shown="0" last-used="1488797886663" shown-count="0" />
     <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="3429" last-shown="0" last-used="1488554356113" shown-count="0" />
+    <feature id="editing.select.word" count="3438" last-shown="0" last-used="1488798310797" shown-count="0" />
     <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="1579" last-shown="0" last-used="1488537789824" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1580" last-shown="0" last-used="1488797525440" shown-count="0" />
     <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.smarttype.general" count="3" last-shown="1488472571304" last-used="1487780673630" shown-count="3665" />
@@ -42,11 +42,11 @@
     <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="81918" />
-      <option name="invocations" value="6212" />
+      <option name="sparedCharacters" value="81936" />
+      <option name="invocations" value="6214" />
       <option name="startDate" value="1476309600000" />
-      <option name="dayCount" value="83" />
-      <option name="lastDate" value="1488495600000" />
+      <option name="dayCount" value="84" />
+      <option name="lastDate" value="1488754800000" />
     </completionStatsTag>
     <fixesStatsTag>
       <option name="invocations" value="275" />
